@@ -4,6 +4,14 @@ This repository consists of the main methods for manipulating lists that I use o
 
 ### Run it using the following comand:
 
+- select the function that you want to test and pass the parameters, Ex: 
+
+```js
+ runFor([0, 1, 2, 3, 4])
+```
+
+- run the archive using the following command:
+
 ```js
  node index.js
 ```
